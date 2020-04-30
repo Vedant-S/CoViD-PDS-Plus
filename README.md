@@ -51,12 +51,12 @@ Uniqueness of The Project:
 #### Architecture Diagram
 
 * Application Workflow
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y/blob/master/PPT/Diagrams/App%20Workflow.png?raw=true" align="center">
+<img src=https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/App Workflow.png align="center">
 
 <br>
 
 * Web Architecture
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y/blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
 
 <br>
 
