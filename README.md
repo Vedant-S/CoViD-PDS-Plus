@@ -33,6 +33,19 @@ Proposed Solution:
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
 
+Uniqueness of The Project:
+
+1. Effective business model. No Direct or Indirect Competitors.
+
+2. Multi language support to cater the diverse population.
+
+3. The INCOME INDEX calculation through the Predictive Analytics can be used in other projects requiring classification according to economic conditions.
+
+4. With the use of Real Time Analytical calculations and QR Code Checkout, the waiting time at the distribution points is lowered, maintaining the SOCIAL DISTANCING rule.
+
+5. Migrant labours stuck in other cities, having their Aadhar Card can avail the service, which is not possible with the current PDS system.
+
+
 <br>
 
 #### Architecture Diagram
@@ -76,7 +89,7 @@ Proposed Solution:
 ### Team Members
 ----------------------------------
 ```diff
-+ Anmol Sinha        | 1805553@kiit.ac.in
 ! Vedant Shrivastava | vedantshrivastava466@gmail.com
++ Anmol Sinha        | 1805553@kiit.ac.in
 - Akshya Anand Nanda | 1805545@kiit.ac.in
 ```
