@@ -51,7 +51,7 @@ Uniqueness of The Project:
 #### Architecture Diagram
 
 * Application Workflow
-<img src=https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/App Workflow.png align="center">
+<img src=https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/App%20Workflow.png align="center">
 
 <br>
 
