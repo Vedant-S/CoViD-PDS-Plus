@@ -41,7 +41,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/anmol-sinha-coder/B.I.N.A.R.Y
+    $ git clone https://github.com/Vedant-S/B.I.N.A.R.Y.
     $ cd Code/Website Prototype FilesWebsite Prototype Files
     $ npm install
 
