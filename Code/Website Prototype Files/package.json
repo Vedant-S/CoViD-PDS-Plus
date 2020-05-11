@@ -9,7 +9,7 @@
   "keywords": [
     "todo"
   ],
-  "author": "A.Kundu",
+  "author": "Vedant-S",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
