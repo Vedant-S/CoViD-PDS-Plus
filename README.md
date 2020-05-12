@@ -62,7 +62,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 ### Technical Description:
 
-<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 * The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
 
 * An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
