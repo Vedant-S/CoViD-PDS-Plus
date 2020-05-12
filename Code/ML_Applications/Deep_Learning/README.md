@@ -7,7 +7,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 ![Shazam](https://hackernoon.com/hn-images/1*xbiQh8B_KJaMFU193I9mwA.gif)
 ### In these times, with people having an idle mind,wrongful entry of data(i.e pranks) must be avoided. So, we have used an audio file for verification of User. If you are over the age of 35, you will not be able to hear the following audio:-
-### ![Click here to play!](https://raw.githubusercontent.com/anmol-sinha-coder/B.I.N.A.R.Y/master/Code/ML_Applications/Deep_Learning/AUD-20200426-WA0010.mp3?token=ANDRJR3QPPDLTJ7XLJ7QHMS6WJ6OG)
+### ![Click here to play!](https://raw.githubusercontent.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/master/Code/ML_Applications/Deep_Learning/AUD-20200426-WA0010.mp3?token=ANF27KFWS2ORVP4NOQ2XMM26XLWFM)
 ### Mind You, it is a screeching sound only young ones can hear. Try it on your parents. They won't hear a thing!
 _______________________________________________________________________________________________________________________
 ## Besides basic audio files, there are Image and Video-Capture detection models, which we shall use for verification of entered data.
