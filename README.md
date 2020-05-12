@@ -19,6 +19,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
+
 ### Solution Description:
 ----------------------------------
 ```diff
@@ -46,6 +47,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 5. Migrant labours stuck in other cities, having their Aadhar Card can avail the service, which is not possible with the current PDS system.
 
 <br>
+
 
 #### Architecture Diagram:
 
