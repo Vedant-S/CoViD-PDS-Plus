@@ -19,22 +19,22 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-### Solution Description
+### Solution Description:
 ----------------------------------
-Problem Statement: 
-
-“Due to COVID-19, a huge number of people in our country are with no food and shelter. How can you use technology to help the authorities solve this problem ?”
-
-Proposed Solution:
-
+```diff
+! Problem Statement: 
+- “Due to COVID-19, a huge number of people in our country are with no food and shelter.
+-  How can you use technology to help the authorities solve this problem ?”
+```
+<img src="https://i.pinimg.com/originals/0b/9a/56/0b9a569deef6839153414ac47cc4e442.gif" width=150 height=100>**_Proposed Solution:_**
 1. An application platform which bridges the gap between the distributors and the customers.
 
 2. Using ML algorithms, we are calculating the INCOME INDEX of the customers for understanding their economic condition. This helps us to predict the % of subsidies to be given.
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
+<br>
 
-Uniqueness of The Project:
-
+<img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100> **_Uniqueness of The Project:_**
 1. Effective business model. No Direct or Indirect Competitors.
 
 2. Multi language support to cater the diverse population.
@@ -45,10 +45,9 @@ Uniqueness of The Project:
 
 5. Migrant labours stuck in other cities, having their Aadhar Card can avail the service, which is not possible with the current PDS system.
 
-
 <br>
 
-#### Architecture Diagram
+#### Architecture Diagram:
 
 * Application Workflow
 <img src=https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/App%20Workflow.png align="center">
@@ -61,13 +60,32 @@ Uniqueness of The Project:
 <br>
 
 
+### Technical Description:
 
-#### Technical Description
+<img src="https://github.com/anmol-sinha-coder/B.I.N.A.R.Y-1/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
+* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
+
+* An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
+
+* It is essential that the income take into consideration all factors to necessitate the use of the code to as a Classification Model.
+
+* The first model used calculate the costs of sheltering, while the second model calculates required area as well as costs of housing the population (registered to the website/application).
+
+* Several Classifier models are used to segregate and predict the people of one economic/financial class to the other, to avoid the discriminatory treatment of them as same with respect to their economic background.
+
+* The most important step used by us is the use of Deep Learning concepts and Open Computer Vision for purposes of verification. An audio file and age classifiers are used to avoid wrongful addition of data, which can corrupt the database in terms of information gain.
+
+* The deep learning models implemented can also be used to train or educate the people in these testing times. ASHA(Accredited Social Health Activist) workers also can be trained by using the various models, for example handwashing, hygiene, cleanliness etc.
+
+* I have made use of Pytorch/Tensorflow-Keras deep learning libraries to enhance the linear models using Gradient Descent and Backpropagation. Further we have used the Opencv(i.e 'cv2') DNN(Deep Neural network) models for purposes of verifying against pranks while entering data.
+
+* For Example, the youth of today can play a prank to enter their age as over 80, for both monetary and/or social benefit. But the audio sound (which classifies people above or below the age of 35) segregates them. Further the GAN (Generative Adversarial Network) age determination model will further bring the number to a close value.
+
+* Thus the technologies used for protype are layed out as follows.
 
 <br>
 
-
-##### Technologies/versions were used
+##### Technologies/Versions Used:
 
 * A MERN Stack Web Application using NGINX as Reverse Proxy and Load Balancer.
 * Complete User Interface of the Mobile Application using Adobe XD.
@@ -76,7 +94,7 @@ Uniqueness of The Project:
 
 <br>
 
-##### Setup/Installations required to run the solution
+##### Setup/Installations required to run the solution:
 
 * Web Application Dependencies (For WebSite Prototype)
 * ML Model Dependancies
