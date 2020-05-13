@@ -52,7 +52,7 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 #### Architecture Diagram:
 
 * Application Workflow
-<img src= align="center">
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/App%20Workflow.png" align="center">
 
 <br>
 
