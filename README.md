@@ -112,3 +112,5 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 + Anmol Sinha        | 1805553@kiit.ac.in
 - Avik Kundu         | 1828008@kiit.ac.in
 ```
+[Go to Anmol's profile](https://github.com/anmol-sinha-coder/)
+[Go to Avik's profile](https://github.com/Lucifergene)
