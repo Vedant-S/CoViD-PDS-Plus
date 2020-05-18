@@ -1,4 +1,4 @@
-# B.I.N.A.R.Y - Healthcare - DevHacks<img src="https://media0.giphy.com/media/3HI5JZCU9BYxx2daxf/source.gif" width=70 height=60>
+# _Team_: B.I.N.A.R.Y | _Topic_: Healthcare<img src="https://media0.giphy.com/media/3HI5JZCU9BYxx2daxf/source.gif" width=70 height=60>
 _________________________________________________________________________________________________________________________________
 
 Our Website Prototype :   https://covid-pds.herokuapp.com/
@@ -19,7 +19,6 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-
 ### Solution Description:
 ----------------------------------
 ```diff
@@ -34,6 +33,8 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 3. The application features the portal where citizens can report homeless people, the information would be immediately transferred to connected NGOs/ organizations.
 <br>
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
+------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://thumbs.gfycat.com/AdorableUnripeArrowana-size_restricted.gif" width=100 height=100> **_Uniqueness of The Project:_**
 1. Effective business model. No Direct or Indirect Competitors.
@@ -48,24 +49,23 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 
 <br>
 
-
 #### Architecture Diagram:
 
 * Application Workflow
-<img src=https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/App%20Workflow.png align="center">
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/App%20Workflow.png" align="center">
 
 <br>
 
 * Web Architecture
 <img src="https://github.com/Vedant-S/B.I.N.A.R.Y./blob/master/PPT/Diagrams/architecture.png?raw=true" align="center">
 
-<br>
+<hr>
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://www.altoros.com/blog/wp-content/uploads/2018/04/kubeflow-to-automate-deployment-of-tensorflow-models-on-kubernetes-v14.gif" width=500 height=300>
 
-### Technical Description:
+## Technical Description:
 
-<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
-* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager.
+* The integration and implementation of the source code by the developer with the necessary requirements of society is essential. It is done by the Operations Manager, with use of Docker/Kubernetes for container deployment of the website, and Jenkins for system based automation i.e CI/CD.
 
 * An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc.
 
@@ -82,19 +82,18 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 * I have made use of Pytorch/Tensorflow-Keras deep learning libraries to enhance the linear models using Gradient Descent and Backpropagation. Further we have used the Opencv(i.e 'cv2') DNN(Deep Neural network) models for purposes of verifying against pranks while entering data.
 
 * For Example, the youth of today can play a prank to enter their age as over 80, for both monetary and/or social benefit. But the audio sound (which classifies people above or below the age of 35) segregates them. Further the GAN (Generative Adversarial Network) age determination model will further bring the number to a close value.
-
-* Thus the technologies used for protype are layed out as follows.
-
+<img src="https://github.com/Vedant-S/B.I.N.A.R.Y-COVID-PDS/blob/master/PPT/Diagrams/implement.jpg" width=900 height=300>
 <br>
 
-##### Technologies/Versions Used:
+##### Technologies/Versions Used (for prototype):
 
 * A MERN Stack Web Application using NGINX as Reverse Proxy and Load Balancer.
 * Complete User Interface of the Mobile Application using Adobe XD.
 * Utilizing the computation power of Spark for Predictive Analytics.
 * Containerizing the Application using Docker for safe and secure deployment on Cloud Engines.
-
+* OpenCV and Pytorch library (packages) used.
 <br>
+<img src="https://miro.medium.com/max/700/1*Z4L6D1RiQauGmB3TGK_wJg.gif" height=100 width=100> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width=100 height=100>
 
 ##### Setup/Installations required to run the solution:
 
@@ -106,10 +105,13 @@ Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 <br>
 
 
-### Team Members
+### Team Members:
 ----------------------------------
 ```diff
 ! Vedant Shrivastava | vedantshrivastava466@gmail.com
 + Anmol Sinha        | 1805553@kiit.ac.in
-- Akshya Anand Nanda | 1805545@kiit.ac.in
+- Avik Kundu         | 1828008@kiit.ac.in
 ```
+[Go to Anmol's profile](https://github.com/anmol-sinha-coder/)
+<br>
+[Go to Avik's profile](https://github.com/Lucifergene)
