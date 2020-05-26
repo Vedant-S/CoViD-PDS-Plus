@@ -4,11 +4,11 @@ The Web Portal for our Application
 Link : https://covid-pds.herokuapp.com/
 
 ---
-## Requirements
+## Requirements:
 
 For development, you will only need Node.js installed in your environement.
 
-### Node
+### Node:
 - #### Node installation on Windows
 
   Just go on [official Node.js website](https://nodejs.org/) and download the installer.
@@ -39,13 +39,13 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ---
 
-## Install
+## Install:
 
     $ git clone https://github.com/Vedant-S/B.I.N.A.R.Y.
     $ cd Code/Website Prototype FilesWebsite Prototype Files
     $ npm install
 
 
-## Running the project
+## Running the project:
 
     $ node app
