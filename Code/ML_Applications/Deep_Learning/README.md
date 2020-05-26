@@ -1,4 +1,4 @@
-### Hey Guys and Gals, I have added animations of myself _(Anmol Sinha)_ accomplishing the tasks using cv2-dnn. I have created these using python purely. The python codes are right up there !<img src="https://thumbs.gfycat.com/TartTastyHammerheadbird-size_restricted.gif" height=50 width=50>
+### Added animations accomplishing the tasks using cv2-dnn. Created these using python purely. The python codes are provided right up there!<img src="https://thumbs.gfycat.com/TartTastyHammerheadbird-size_restricted.gif" height=50 width=50>
     I have used deques (Double-Ended Queues) to achieve the rate of disappearance of points from numpy array of the video.
     
     We will further make use of pytorch file AgeGender.ipynb to achieve 100% verification of the person alongside security.
