@@ -1,5 +1,5 @@
 ### Added animations accomplishing the tasks using cv2-dnn. Created these using python purely. The python codes are provided right up there!<img src="https://thumbs.gfycat.com/TartTastyHammerheadbird-size_restricted.gif" height=50 width=50>
-    I have used deques (Double-Ended Queues) to achieve the rate of disappearance of points from numpy array of the video.
+    Used deques (Double-Ended Queues) to achieve the rate of disappearance of points from numpy array of the video.
     
     We will further make use of pytorch file AgeGender.ipynb to achieve 100% verification of the person alongside security.
     
@@ -9,7 +9,7 @@
     
 ### Here is a program for tracing contents (hand written). ASHA workers can be trained via mediums like these.
 ## Take your time and watch me in the below GIF:-
-### So keeping in mind the future of the nation, I can only say:-
+### So keeping in mind the future of the nation, We can only say:-
 ![Me](https://github.com/Vedant-S/CoViD-PDS-Plus/blob/master/Code/ML_Applications/Deep_Learning/nice.gif) 
 # Nice!
 _____________________________________________________________________________________________________________________
