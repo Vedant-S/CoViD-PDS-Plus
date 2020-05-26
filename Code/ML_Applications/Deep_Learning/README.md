@@ -8,7 +8,6 @@
     Now you know how much Unity Player has to work on the backend (using python) to create Gaming Environments and AR/VR.
     
 ### Here is a program for tracing contents (hand written). ASHA workers can be trained via mediums like these.
-## Take your time and watch me in the below GIF:-
 ### So keeping in mind the future of the nation, We can only say:-
 ![Me](https://github.com/Vedant-S/CoViD-PDS-Plus/blob/master/Code/ML_Applications/Deep_Learning/nice.gif) 
 # Nice!
