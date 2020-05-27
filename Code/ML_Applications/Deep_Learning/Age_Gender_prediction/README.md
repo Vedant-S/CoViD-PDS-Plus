@@ -1,19 +1,19 @@
-# Age Gender Prediction				
+# Age Gender Prediction:				
 
 This repository is used for finding and predicting from an image one or multiple human's gender and age(confidence scores provided for both age and gender). **94% acc** for gender and **MAE of 4.2** for age can be achieved after just 32 epochs of training. 
-
+-------------------------------------------------------------------------------------------------------------------------
 
 
 ![Example](https://github.com/adamzjk/Age-Gender-Pred/blob/master/example/lotr.jpg?raw=true)
-
+______________________________________________________________________________________________________________________
 ## Requirements
 
 - python3, **pytorch**
 - `pip install --upgrade opencv-python, dlib, imutils, skimage`
 - Download [FaceAligner]( http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and save `shape_predictor_68_face_landmarks.dat` in `models/`
 - Download [FaceDetector]( http://dlib.net/files/mmod_human_face_detector.dat.bz2 ) and save `mmod_human_face_detector.dat` in `models/`
-
-## Usage
+______________________________________________________________________________________________________________________
+## Usage:
 
 #### **Training**
 
@@ -51,7 +51,7 @@ call `eval_live()` function in `evaluate.py`
 
 1. detect and align faces using `dlib`.
 2. predict age, gender and confidence scores(probability of each gender and variance of age).
-
+______________________________________________________________________________________________________________________
 ## Reference
 ##### (Research Papers)
       [1] Rothe R, Timofte R, Van Gool L. Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks [J/OL]. International Journal of Computer Vision. 126 (2). 2018, Apr: 144–157.
