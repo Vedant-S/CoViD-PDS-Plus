@@ -14,7 +14,7 @@ ________________________________________________________________________________
 - Download [FaceDetector]( http://dlib.net/files/mmod_human_face_detector.dat.bz2 ) and save `mmod_human_face_detector.dat` in `models/`
 ______________________________________________________________________________________________________________________
 ## Usage:
-
+______________________________________________________________________________________________________________________
 #### **Training:**
 
 1. Put your image in pics/ (see config.ini for naming details)
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 #### **Real-time Prediction:**
 
 call `eval_live()` function in `evaluate.py`
-
+______________________________________________________________________________________________________________________
 ## Train/Test Pipeline:
 
 ![Example](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/img/pipeline.png)
