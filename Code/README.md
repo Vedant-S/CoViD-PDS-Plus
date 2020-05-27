@@ -1,6 +1,6 @@
 # Documentation:
 ## We have made prototypes from each domain:
-____________________________________________________________________________________________________________________________
+
 1. NodeJS WebSite
 2. ML/DL Models
 3. App UI Design - XD
