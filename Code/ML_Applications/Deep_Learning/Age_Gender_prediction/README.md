@@ -1,12 +1,12 @@
 # Age Gender Prediction:				
 
 This repository is used for finding and predicting from an image one or multiple human's gender and age(confidence scores provided for both age and gender). **94% acc** for gender and **MAE of 4.2** for age can be achieved after just 32 epochs of training. 
--------------------------------------------------------------------------------------------------------------------------
+______________________________________________________________________________________________________________________
 
 
 ![Example](https://github.com/adamzjk/Age-Gender-Pred/blob/master/example/lotr.jpg?raw=true)
 ______________________________________________________________________________________________________________________
-## Requirements
+## Requirements:
 
 - python3, **pytorch**
 - `pip install --upgrade opencv-python, dlib, imutils, skimage`
@@ -15,23 +15,23 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 ## Usage:
 
-#### **Training**
+#### **Training:**
 
 1. Put your image in pics/ (see config.ini for naming details)
 2. Run preprocessing steps in `preprocess.py`
 3. Run `train.py`
 
-#### **Predicting images in val/ folder**
+#### **Predicting images in val/ folder:**
 
 1. train the model using `python train.py`, weight will be stored in `models/`
 2. put your test image in `pics/val/`
 3. run `python evaluate.py`
 
-#### **Real-time Prediction**
+#### **Real-time Prediction:**
 
 call `eval_live()` function in `evaluate.py`
 
-## Train/Test Pipeline
+## Train/Test Pipeline:
 
 ![Example](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/img/pipeline.png)
 
@@ -52,7 +52,7 @@ call `eval_live()` function in `evaluate.py`
 1. detect and align faces using `dlib`.
 2. predict age, gender and confidence scores(probability of each gender and variance of age).
 ______________________________________________________________________________________________________________________
-## Reference
+## Reference:
 ##### (Research Papers)
       [1] Rothe R, Timofte R, Van Gool L. Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks [J/OL]. International Journal of Computer Vision. 126 (2). 2018, Apr: 144–157.
 
