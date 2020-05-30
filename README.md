@@ -5,12 +5,12 @@ Our Website Prototype :   https://covid-pds.herokuapp.com/
 <br>
 Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 <br>
-Our DL/ML Models : https://github.com/Vedant-S/CoViD-PDS-Plus/tree/master/Code/ML_Applications 
+Our DL/ML Models : https://github.com/Vedant-S/CoViD-PDS-Plus/tree/master/Code/ML_Applications
 
-### Project Overview
+### Project Overview:
 ----------------------------------
 
-#### The Current Situation 
+#### The Current Situation: 
 * The government has given contracts to reputed vendors for distribution of daily eatables and ration among the people who are suffering, during the lockdown, at SUBSIDIZED RATES according to their income.
 
 * The vendors have set up their distribution points throughout the country, but are facing problems in management during distribution, as there are a few workforce available at every distribution point to cater the entire locality, which leads to violation of Social Distancing rule.
@@ -24,7 +24,7 @@ Our DL/ML Models : https://github.com/Vedant-S/CoViD-PDS-Plus/tree/master/Code/M
 ### Solution Description:
 ----------------------------------
 ```diff
-! Problem Statement: 
+! Problem Statement:
 - “Due to COVID-19, a huge number of people in our country are with no food and shelter.
 -  How can you use technology to help the authorities solve this problem ?”
 ```
