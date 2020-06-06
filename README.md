@@ -6,6 +6,8 @@ Our Website Prototype :   https://covid-pds.herokuapp.com/
 Our App APK (WebView) :   https://bit.ly/covid-pds-apk
 <br>
 Our DL/ML Models : https://github.com/Vedant-S/CoViD-PDS-Plus/tree/master/Code/ML_Applications
+<br>
+Video Link: https://youtu.be/sdS--WA9PGM
 
 ### Project Overview:
 ----------------------------------
