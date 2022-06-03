@@ -116,6 +116,3 @@ Video Link: https://youtu.be/sdS--WA9PGM
 + Anmol Sinha        | 1805553@kiit.ac.in
 - Avik Kundu         | 1828008@kiit.ac.in
 ```
-[Go to Anmol's profile](https://github.com/anmol-sinha-coder/)
-<br>
-[Go to Avik's profile](https://github.com/Lucifergene)
